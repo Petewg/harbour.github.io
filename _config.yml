@@ -26,3 +26,5 @@ defaults:
 incremental: true
 sass:
   style: compressed
+
+theme: jekyll-theme-leap-day
