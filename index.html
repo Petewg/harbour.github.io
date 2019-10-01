@@ -39,18 +39,13 @@ layout: default
   <div class="status-box">
     <h1 id="project-status">Project Status</h1>
     <p>
-      <!--
       <a href="https://travis-ci.org/{{ site.repo_slug }}"><img src="https://api.travis-ci.org/{{ site.repo_slug }}.svg?branch=master" height="20" alt="Build status"></a>&thinsp;
 {%- if site.fork %}
       <a href="https://ci.appveyor.com/project/vszakats/harbour-core/branch/master"><img src="https://ci.appveyor.com/api/projects/status/1kx6w3y6qasymah3/branch/master?svg=true" height="20" alt="Build Status"></a>
 {%- endif %}
-      <br> -->
+      <br>
       Latest stable release:&nbsp;
       <strong>3.0.0</strong>&nbsp;(2011-07-17)<br>
-      Latest development:&nbsp;
-      <strong>3.2</strong>&nbsp;
-      <script> document.write(new Date().toLocaleDateString()); </script>
-      <br>
 {%- if site.fork %}
       Latest development:&nbsp;
       <strong>{{ site.full_version }}</strong><br>
