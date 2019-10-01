@@ -1,8 +1,3 @@
-- country: earth
-  name: the Unknown <del>Soldier</del> Sailor
-  photos: 
-  title: The silent majority...
-  url: https://groups.google.com/forum/#!forum/harbour-users
 - country: au
   name: Matt Hamilton
   photos:
@@ -76,6 +71,12 @@
   name: Gonzalo Diethelm
   url: mailto:gonzalo.diethelm/at/iname.com
   title: GNU Tools Pusher<br>Harbour standard GNU tools pusher
+- country: de
+  name: Martin Vogel
+  url: mailto:vogel/at/inttec.de
+  photos:
+  - martin_vogel.jpg
+  title: Cl*pper Tools Captain
 - country: earth
   name: Janica Lubos
   url: mailto:janica/at/fornax.elf.stuba.sk
@@ -86,12 +87,11 @@
   name: Viktor Szakats
   url: https://vszakats.net/harbour
   title: Former Tech Lead, hbmk2 author, etc.
-- country: de
-  name: Martin Vogel
-  url: mailto:vogel/at/inttec.de
-  photos:
-  - martin_vogel.jpg
-  title: Cl*pper Tools Captain
+- country: earth
+  name: the Unknown <del>Soldier</del> Sailor
+  photos: 
+  title: The silent majority...
+  url: https://groups.google.com/forum/#!forum/harbour-users
 - country: in
   name: Pritpal Bedi
   url: mailto:pritpal/at/vouchcac.com
